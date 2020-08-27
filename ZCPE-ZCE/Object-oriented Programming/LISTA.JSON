@@ -1,0 +1,3745 @@
+{
+    "00000000": {
+        "erro": true
+    },
+    "00000001": {
+        "erro": true
+    },
+    "00000002": {
+        "erro": true
+    },
+    "00000003": {
+        "erro": true
+    },
+    "00000004": {
+        "erro": true
+    },
+    "00000005": {
+        "erro": true
+    },
+    "00000006": {
+        "erro": true
+    },
+    "00000007": {
+        "erro": true
+    },
+    "00000008": {
+        "erro": true
+    },
+    "00000009": {
+        "erro": true
+    },
+    "00000010": {
+        "erro": true
+    },
+    "00000011": {
+        "erro": true
+    },
+    "00000012": {
+        "erro": true
+    },
+    "00000013": {
+        "erro": true
+    },
+    "00000014": {
+        "erro": true
+    },
+    "00000015": {
+        "erro": true
+    },
+    "00000016": {
+        "erro": true
+    },
+    "00000017": {
+        "erro": true
+    },
+    "00000018": {
+        "erro": true
+    },
+    "00000019": {
+        "erro": true
+    },
+    "00000020": {
+        "erro": true
+    },
+    "00000021": {
+        "erro": true
+    },
+    "00000022": {
+        "erro": true
+    },
+    "00000023": {
+        "erro": true
+    },
+    "00000024": {
+        "erro": true
+    },
+    "00000025": {
+        "erro": true
+    },
+    "00000026": {
+        "erro": true
+    },
+    "00000027": {
+        "erro": true
+    },
+    "00000028": {
+        "erro": true
+    },
+    "00000029": {
+        "erro": true
+    },
+    "00000030": {
+        "erro": true
+    },
+    "00000031": {
+        "erro": true
+    },
+    "00000032": {
+        "erro": true
+    },
+    "00000033": {
+        "erro": true
+    },
+    "00000034": {
+        "erro": true
+    },
+    "00000035": {
+        "erro": true
+    },
+    "00000036": {
+        "erro": true
+    },
+    "00000037": {
+        "erro": true
+    },
+    "00000038": {
+        "erro": true
+    },
+    "00000039": {
+        "erro": true
+    },
+    "00000040": {
+        "erro": true
+    },
+    "00000041": {
+        "erro": true
+    },
+    "00000042": {
+        "erro": true
+    },
+    "00000043": {
+        "erro": true
+    },
+    "00000044": {
+        "erro": true
+    },
+    "00000045": {
+        "erro": true
+    },
+    "00000046": {
+        "erro": true
+    },
+    "00000047": {
+        "erro": true
+    },
+    "00000048": {
+        "erro": true
+    },
+    "00000049": {
+        "erro": true
+    },
+    "00000050": {
+        "erro": true
+    },
+    "01001000": {
+        "cep": "01001-000",
+        "logradouro": "Praça da Sé",
+        "complemento": "lado ímpar",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01001001": {
+        "cep": "01001-001",
+        "logradouro": "Praça da Sé",
+        "complemento": "lado par",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01001010": {
+        "cep": "01001-010",
+        "logradouro": "Rua Filipe de Oliveira",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01001900": {
+        "cep": "01001-900",
+        "logradouro": "Praça da Sé 108",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01001901": {
+        "cep": "01001-901",
+        "logradouro": "Praça da Sé 371",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01001902": {
+        "cep": "01001-902",
+        "logradouro": "Praça da Sé 385",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01002000": {
+        "cep": "01002-000",
+        "logradouro": "Rua Direita",
+        "complemento": "lado par",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01002001": {
+        "cep": "01002-001",
+        "logradouro": "Rua Direita",
+        "complemento": "lado ímpar",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01002010": {
+        "cep": "01002-010",
+        "logradouro": "Praça do Patriarca",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01002020": {
+        "cep": "01002-020",
+        "logradouro": "Viaduto do Chá",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01002900": {
+        "cep": "01002-900",
+        "logradouro": "Viaduto do Chá 15",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01002901": {
+        "cep": "01002-901",
+        "logradouro": "Rua Direita 32",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01002902": {
+        "cep": "01002-902",
+        "logradouro": "Rua Direita 191",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01002903": {
+        "cep": "01002-903",
+        "logradouro": "Rua Direita 250",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01003000": {
+        "cep": "01003-000",
+        "logradouro": "Rua José Bonifácio",
+        "complemento": "lado par",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01003001": {
+        "cep": "01003-001",
+        "logradouro": "Rua José Bonifácio",
+        "complemento": "lado ímpar",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01003010": {
+        "cep": "01003-010",
+        "logradouro": "Praça Ouvidor Pacheco e Silva",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01003900": {
+        "cep": "01003-900",
+        "logradouro": "Rua José Bonifácio 24",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01003901": {
+        "cep": "01003-901",
+        "logradouro": "Rua José Bonifácio 93",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01003902": {
+        "cep": "01003-902",
+        "logradouro": "Rua José Bonifácio 209",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01003903": {
+        "cep": "01003-903",
+        "logradouro": "Rua José Bonifácio 250",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01003904": {
+        "cep": "01003-904",
+        "logradouro": "Rua José Bonifácio 278",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01003905": [],
+    "01004000": {
+        "cep": "01004-000",
+        "logradouro": "Rua Barão de Paranapiacaba",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01004010": {
+        "cep": "01004-010",
+        "logradouro": "Rua Quintino Bocaiúva",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01004900": [],
+    "01004901": {
+        "cep": "01004-901",
+        "logradouro": "Rua Quintino Bocaiúva 176",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01004902": {
+        "cep": "01004-902",
+        "logradouro": "Rua Quintino Bocaiúva 191",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01004903": {
+        "cep": "01004-903",
+        "logradouro": "Rua Quintino Bocaiúva 231",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01004904": {
+        "cep": "01004-904",
+        "logradouro": "Rua Barão de Paranapiacaba 93",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01005000": {
+        "cep": "01005-000",
+        "logradouro": "Rua Benjamim Constant",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01005010": {
+        "cep": "01005-010",
+        "logradouro": "Largo São Francisco",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01005020": {
+        "cep": "01005-020",
+        "logradouro": "Rua São Francisco",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01005030": {
+        "cep": "01005-030",
+        "logradouro": "Rua do Ouvidor",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01005900": {
+        "cep": "01005-900",
+        "logradouro": "Rua Benjamim Constant 153",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01006000": {
+        "cep": "01006-000",
+        "logradouro": "Rua Senador Feijó",
+        "complemento": "lado par",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01006001": {
+        "cep": "01006-001",
+        "logradouro": "Rua Senador Feijó",
+        "complemento": "lado ímpar",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01006010": {
+        "cep": "01006-010",
+        "logradouro": "Rua Senador Paulo Egídio",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01006020": {
+        "cep": "01006-020",
+        "logradouro": "Rua Cristóvão Colombo",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01006030": {
+        "cep": "01006-030",
+        "logradouro": "Viaduto Brigadeiro Luiz Antônio",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01006040": {
+        "cep": "01006-040",
+        "logradouro": "Praça Paulo Alfeu de Monteiro Duarte",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01006900": {
+        "cep": "01006-900",
+        "logradouro": "Rua Senador Feijó 69",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01006901": {
+        "cep": "01006-901",
+        "logradouro": "Rua Senador Feijó 143",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01006903": {
+        "cep": "01006-903",
+        "logradouro": "Rua Senador Paulo Egídio 15",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01006904": {
+        "cep": "01006-904",
+        "logradouro": "Rua Senador Paulo Egídio 72",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01007000": {
+        "cep": "01007-000",
+        "logradouro": "Rua Riachuelo",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01007010": {
+        "cep": "01007-010",
+        "logradouro": "Rua Doutor Falcão Filho",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01007020": {
+        "cep": "01007-020",
+        "logradouro": "Praça da Bandeira",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01007030": {
+        "cep": "01007-030",
+        "logradouro": "Galeria Prestes Maia",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01007040": {
+        "cep": "01007-040",
+        "logradouro": "Parque Anhangabaú",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01007050": {
+        "cep": "01007-050",
+        "logradouro": "Passarela Carlos Drummond de Andrade",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01007060": {
+        "cep": "01007-060",
+        "logradouro": "Viaduto Doutor Eusébio Stevaux",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01007070": {
+        "cep": "01007-070",
+        "logradouro": "Largo Fernando Gallego",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01007080": {
+        "cep": "01007-080",
+        "logradouro": "Passarela do Piques",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01007900": {
+        "cep": "01007-900",
+        "logradouro": "Rua Doutor Faria Pereira 56",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01007901": {
+        "cep": "01007-901",
+        "logradouro": "Rua Riachuelo 44",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01007904": {
+        "cep": "01007-904",
+        "logradouro": "Rua Riachuelo 115",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01007905": {
+        "cep": "01007-905",
+        "logradouro": "Rua Riachuelo 20",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01007906": {
+        "cep": "01007-906",
+        "logradouro": "Rua Riachuelo 231",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01008000": {
+        "cep": "01008-000",
+        "logradouro": "Rua Líbero Badaró",
+        "complemento": "lado par",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01008010": {
+        "cep": "01008-010",
+        "logradouro": "Rua Doutor Miguel Couto",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01008900": {
+        "cep": "01008-900",
+        "logradouro": "Rua Doutor Miguel Couto 53",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01008901": {
+        "cep": "01008-901",
+        "logradouro": "Rua Doutor Miguel Couto 58",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01008902": {
+        "cep": "01008-902",
+        "logradouro": "Rua Líbero Badaró 92",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01008903": {
+        "cep": "01008-903",
+        "logradouro": "Rua Líbero Badaró 152",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01008904": {
+        "cep": "01008-904",
+        "logradouro": "Rua Líbero Badaró 158",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01008905": {
+        "cep": "01008-905",
+        "logradouro": "Rua Líbero Badaró 346",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01008906": {
+        "cep": "01008-906",
+        "logradouro": "Rua Líbero Badaró 504",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01008908": {
+        "cep": "01008-908",
+        "logradouro": "Rua Líbero Badaró 600",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01009000": {
+        "cep": "01009-000",
+        "logradouro": "Rua Líbero Badaró",
+        "complemento": "lado ímpar",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01009901": {
+        "cep": "01009-901",
+        "logradouro": "Rua Líbero Badaró 93",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01009902": {
+        "cep": "01009-902",
+        "logradouro": "Rua Líbero Badaró 101",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01009903": {
+        "cep": "01009-903",
+        "logradouro": "Rua Líbero Badaró 471",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01009904": {
+        "cep": "01009-904",
+        "logradouro": "Rua Líbero Badaró 633",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01009905": {
+        "cep": "01009-905",
+        "logradouro": "Rua Líbero Badaró 425",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01009906": {
+        "cep": "01009-906",
+        "logradouro": "Rua Líbero Badaró 377",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01009907": {
+        "cep": "01009-907",
+        "logradouro": "Rua Líbero Badaró 293",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01009908": {
+        "cep": "01009-908",
+        "logradouro": "Rua Líbero Badaró 73 6º Andar",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01009999": {
+        "cep": "01009-999",
+        "logradouro": "Rua Líbero Badaró 595",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01010000": {
+        "cep": "01010-000",
+        "logradouro": "Rua São Bento",
+        "complemento": "até 318 - lado par",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01010001": {
+        "cep": "01010-001",
+        "logradouro": "Rua São Bento",
+        "complemento": "de 320 ao fim - lado par",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01010010": {
+        "cep": "01010-010",
+        "logradouro": "Praça Antônio Prado",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01010900": {
+        "cep": "01010-900",
+        "logradouro": "Praça Antônio Prado 33",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01010901": {
+        "cep": "01010-901",
+        "logradouro": "Praça Antônio Prado 48",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01010902": {
+        "cep": "01010-902",
+        "logradouro": "Rua São Bento 290",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01010903": {
+        "cep": "01010-903",
+        "logradouro": "Rua São Bento 370",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01010904": {
+        "cep": "01010-904",
+        "logradouro": "Rua São Bento 398",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01010905": {
+        "cep": "01010-905",
+        "logradouro": "Rua São Bento 470",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01011000": {
+        "cep": "01011-000",
+        "logradouro": "Rua São Bento",
+        "complemento": "até 319 - lado ímpar",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01011100": {
+        "cep": "01011-100",
+        "logradouro": "Rua São Bento",
+        "complemento": "de 321 ao fim - lado ímpar",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01011900": {
+        "cep": "01011-900",
+        "logradouro": "Rua São Bento 59",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01011901": {
+        "cep": "01011-901",
+        "logradouro": "Rua São Bento 279",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01011902": {
+        "cep": "01011-902",
+        "logradouro": "Rua São Bento 329",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01011903": {
+        "cep": "01011-903",
+        "logradouro": "Rua São Bento 365",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01011904": {
+        "cep": "01011-904",
+        "logradouro": "Rua São Bento 545",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01012000": {
+        "cep": "01012-000",
+        "logradouro": "Rua Álvares Penteado",
+        "complemento": "lado par",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01012001": {
+        "cep": "01012-001",
+        "logradouro": "Rua Álvares Penteado",
+        "complemento": "lado ímpar",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01012010": {
+        "cep": "01012-010",
+        "logradouro": "Rua da Quitanda",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01012020": {
+        "cep": "01012-020",
+        "logradouro": "Largo da Misericórdia",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01012030": {
+        "cep": "01012-030",
+        "logradouro": "Largo do Café",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01012900": {
+        "cep": "01012-900",
+        "logradouro": "Rua Álvares Penteado 49",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01012902": {
+        "cep": "01012-902",
+        "logradouro": "Rua Álvares Penteado 180",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01012904": {
+        "cep": "01012-904",
+        "logradouro": "Rua Álvares Penteado 143",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01012905": {
+        "cep": "01012-905",
+        "logradouro": "Rua Álvares Penteado 151",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01012907": {
+        "cep": "01012-907",
+        "logradouro": "Rua da Quitanda 96",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01012908": {
+        "cep": "01012-908",
+        "logradouro": "Rua da Quitanda 113",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01012909": {
+        "cep": "01012-909",
+        "logradouro": "Largo da Misericórdia 23",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013000": {
+        "cep": "01013-000",
+        "logradouro": "Rua Quinze de Novembro",
+        "complemento": "lado par",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013001": {
+        "cep": "01013-001",
+        "logradouro": "Rua Quinze de Novembro",
+        "complemento": "lado ímpar",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013010": {
+        "cep": "01013-010",
+        "logradouro": "Rua do Comércio",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013020": {
+        "cep": "01013-020",
+        "logradouro": "Rua do Tesouro",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013901": {
+        "cep": "01013-901",
+        "logradouro": "Rua do Tesouro 23",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013902": {
+        "cep": "01013-902",
+        "logradouro": "Rua do Tesouro 47",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013903": {
+        "cep": "01013-903",
+        "logradouro": "Rua Quinze de Novembro 150",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013904": {
+        "cep": "01013-904",
+        "logradouro": "Rua Quinze de Novembro 184",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013905": {
+        "cep": "01013-905",
+        "logradouro": "Rua Quinze de Novembro 200",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013906": {
+        "cep": "01013-906",
+        "logradouro": "Rua Quinze de Novembro 275",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013907": {
+        "cep": "01013-907",
+        "logradouro": "Rua Quinze de Novembro 306",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013909": {
+        "cep": "01013-909",
+        "logradouro": "Rua Quinze de Novembro 165",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013910": {
+        "cep": "01013-910",
+        "logradouro": "Rua Quinze de Novembro 164",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013911": {
+        "cep": "01013-911",
+        "logradouro": "Rua Quinze de Novembro 228",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013913": {
+        "cep": "01013-913",
+        "logradouro": "Rua Quinze de Novembro 269",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013914": {
+        "cep": "01013-914",
+        "logradouro": "Rua Quinze de Novembro 233",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01013915": {
+        "cep": "01013-915",
+        "logradouro": "Rua Quinze de Novembro 212",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014000": {
+        "cep": "01014-000",
+        "logradouro": "Rua Boa Vista",
+        "complemento": "lado par",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014001": {
+        "cep": "01014-001",
+        "logradouro": "Rua Boa Vista",
+        "complemento": "lado ímpar",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014010": {
+        "cep": "01014-010",
+        "logradouro": "Rua João Brícola",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014020": {
+        "cep": "01014-020",
+        "logradouro": "Rua Três de Dezembro",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014030": {
+        "cep": "01014-030",
+        "logradouro": "Viaduto Boa Vista",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014900": {
+        "cep": "01014-900",
+        "logradouro": "Rua João Brícola 24",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014901": {
+        "cep": "01014-901",
+        "logradouro": "Rua Boa Vista 84",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014902": {
+        "cep": "01014-902",
+        "logradouro": "Rua Boa Vista 162",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014903": {
+        "cep": "01014-903",
+        "logradouro": "Rua Boa Vista 200",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014904": {
+        "cep": "01014-904",
+        "logradouro": "Rua Boa Vista 208",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014905": {
+        "cep": "01014-905",
+        "logradouro": "Rua Boa Vista 234",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014906": {
+        "cep": "01014-906",
+        "logradouro": "Rua Boa Vista 230",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014907": {
+        "cep": "01014-907",
+        "logradouro": "Rua Boa Vista 254",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014908": {
+        "cep": "01014-908",
+        "logradouro": "Rua Boa Vista 280",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014909": {
+        "cep": "01014-909",
+        "logradouro": "Rua Boa Vista 314",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014910": {
+        "cep": "01014-910",
+        "logradouro": "Rua Boa Vista 356",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014911": {
+        "cep": "01014-911",
+        "logradouro": "Rua Boa Vista 51",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014912": {
+        "cep": "01014-912",
+        "logradouro": "Rua Boa Vista 75",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014913": {
+        "cep": "01014-913",
+        "logradouro": "Rua Boa Vista 185",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014914": {
+        "cep": "01014-914",
+        "logradouro": "Rua Boa Vista 209",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014915": {
+        "cep": "01014-915",
+        "logradouro": "Rua Boa Vista 293",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014916": {
+        "cep": "01014-916",
+        "logradouro": "Rua João Brícola 37",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014917": {
+        "cep": "01014-917",
+        "logradouro": "Rua João Brícola 67",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014919": {
+        "cep": "01014-919",
+        "logradouro": "Rua Boa Vista 176",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014920": {
+        "cep": "01014-920",
+        "logradouro": "Rua Boa Vista 175",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014925": {
+        "cep": "01014-925",
+        "logradouro": "Rua Boa Vista 162",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014930": {
+        "cep": "01014-930",
+        "logradouro": "Rua Boa Vista 170",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014940": {
+        "cep": "01014-940",
+        "logradouro": "Rua Boa Vista 84",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01014970": {
+        "cep": "01014-970",
+        "logradouro": "Rua Boa Vista 88 Loja 2 Térreo",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01015000": {
+        "cep": "01015-000",
+        "logradouro": "Rua General Carneiro",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01015010": {
+        "cep": "01015-010",
+        "logradouro": "Praça Padre Manuel da Nóbrega",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01015020": {
+        "cep": "01015-020",
+        "logradouro": "Praça Fernando Costa",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01015030": {
+        "cep": "01015-030",
+        "logradouro": "Rua São Nicolau",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01015040": {
+        "cep": "01015-040",
+        "logradouro": "Rua Maria Benedita",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01015050": {
+        "cep": "01015-050",
+        "logradouro": "Rua Luís Teixeira",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01015060": {
+        "cep": "01015-060",
+        "logradouro": "Rua Hércules Florence",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01015070": {
+        "cep": "01015-070",
+        "logradouro": "Parque Dom Pedro II",
+        "complemento": "de 502 ao fim - lado par",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01015080": {
+        "cep": "01015-080",
+        "logradouro": "Rua Fernão Sales",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01015090": {
+        "cep": "01015-090",
+        "logradouro": "Viaduto Diario Popular",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01015100": {
+        "cep": "01015-100",
+        "logradouro": "Avenida Exterior",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01015900": {
+        "cep": "01015-900",
+        "logradouro": "Praça Padre Manuel da Nóbrega 16",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01015901": {
+        "cep": "01015-901",
+        "logradouro": "Praça Padre Manuel da Nóbrega 21",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01016000": {
+        "cep": "01016-000",
+        "logradouro": "Rua Venceslau Brás",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01016010": {
+        "cep": "01016-010",
+        "logradouro": "Rua Irmã Simpliciana",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01016020": {
+        "cep": "01016-020",
+        "logradouro": "Rua Santa Teresa",
+        "complemento": "",
+        "bairro": "Centro",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01016030": {
+        "cep": "01016-030",
+        "logradouro": "Rua Anchieta",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01016040": {
+        "cep": "01016-040",
+        "logradouro": "Largo Pátio do Colégio",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01016050": {
+        "cep": "01016-050",
+        "logradouro": "Rua Floriano Peixoto",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01016900": {
+        "cep": "01016-900",
+        "logradouro": "Rua Anchieta 35",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01017000": {
+        "cep": "01017-000",
+        "logradouro": "Avenida Rangel Pestana",
+        "complemento": "até 499/500",
+        "bairro": "Brás",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01017010": {
+        "cep": "01017-010",
+        "logradouro": "Rua Doutor Bettencourt Rodrigues",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01017020": {
+        "cep": "01017-020",
+        "logradouro": "Rua Roberto Simonsen",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01017030": {
+        "cep": "01017-030",
+        "logradouro": "Viaduto Mercúrio",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01017040": {
+        "cep": "01017-040",
+        "logradouro": "Viaduto Vinte e Cinco de Março",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01017902": {
+        "cep": "01017-902",
+        "logradouro": "Rua Roberto Simonsen 62",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01017903": {
+        "cep": "01017-903",
+        "logradouro": "Rua Roberto Simonsen 106",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01017904": {
+        "cep": "01017-904",
+        "logradouro": "Avenida Rangel Pestana 203",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01017905": {
+        "cep": "01017-905",
+        "logradouro": "Avenida Rangel Pestana 243",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01017906": {
+        "cep": "01017-906",
+        "logradouro": "Avenida Rangel Pestana 315",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01017907": {
+        "cep": "01017-907",
+        "logradouro": "Rua Doutor Bettencourt Rodrigues 88",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01017908": {
+        "cep": "01017-908",
+        "logradouro": "Rua Doutor Bettencourt Rodrigues 112",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01017909": {
+        "cep": "01017-909",
+        "logradouro": "Rua Doutor Bettencourt Rodrigues 155",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "01017910": {
+        "cep": "01017-910",
+        "logradouro": "Rua Doutor Bettencourt Rodrigues 196",
+        "complemento": "",
+        "bairro": "Sé",
+        "localidade": "São Paulo",
+        "uf": "SP",
+        "unidade": "",
+        "ibge": "3550308",
+        "gia": "1004"
+    },
+    "93415000": {
+        "cep": "93415-000",
+        "logradouro": "Avenida Coronel Travassos",
+        "complemento": "",
+        "bairro": "Rondônia",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415001": {
+        "erro": true
+    },
+    "93415002": {
+        "erro": true
+    },
+    "93415003": {
+        "erro": true
+    },
+    "93415004": {
+        "erro": true
+    },
+    "93415005": {
+        "erro": true
+    },
+    "93415006": {
+        "erro": true
+    },
+    "93415007": {
+        "erro": true
+    },
+    "93415008": {
+        "erro": true
+    },
+    "93415009": {
+        "erro": true
+    },
+    "93415010": {
+        "cep": "93415-010",
+        "logradouro": "Rua Nova Prata",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415011": {
+        "erro": true
+    },
+    "93415012": {
+        "erro": true
+    },
+    "93415013": {
+        "erro": true
+    },
+    "93415014": {
+        "erro": true
+    },
+    "93415015": {
+        "cep": "93415-015",
+        "logradouro": "Avenida Pedro Adams Filho",
+        "complemento": "de 2201 a 2639 - lado ímpar",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415016": {
+        "erro": true
+    },
+    "93415017": {
+        "erro": true
+    },
+    "93415018": {
+        "erro": true
+    },
+    "93415019": {
+        "erro": true
+    },
+    "93415020": {
+        "cep": "93415-020",
+        "logradouro": "Rua Antônio Prado",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415021": {
+        "erro": true
+    },
+    "93415022": {
+        "erro": true
+    },
+    "93415023": {
+        "erro": true
+    },
+    "93415024": {
+        "erro": true
+    },
+    "93415025": {
+        "erro": true
+    },
+    "93415026": {
+        "erro": true
+    },
+    "93415027": {
+        "erro": true
+    },
+    "93415028": {
+        "erro": true
+    },
+    "93415029": {
+        "erro": true
+    },
+    "93415030": {
+        "cep": "93415-030",
+        "logradouro": "Rua Bom Jesus",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415031": {
+        "erro": true
+    },
+    "93415032": {
+        "erro": true
+    },
+    "93415033": {
+        "erro": true
+    },
+    "93415034": {
+        "erro": true
+    },
+    "93415035": {
+        "erro": true
+    },
+    "93415036": {
+        "erro": true
+    },
+    "93415037": {
+        "erro": true
+    },
+    "93415038": {
+        "erro": true
+    },
+    "93415039": {
+        "erro": true
+    },
+    "93415040": {
+        "cep": "93415-040",
+        "logradouro": "Rua Vacaria",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415041": {
+        "erro": true
+    },
+    "93415042": {
+        "erro": true
+    },
+    "93415043": {
+        "erro": true
+    },
+    "93415044": {
+        "erro": true
+    },
+    "93415045": {
+        "erro": true
+    },
+    "93415046": {
+        "erro": true
+    },
+    "93415047": {
+        "erro": true
+    },
+    "93415048": {
+        "erro": true
+    },
+    "93415049": {
+        "erro": true
+    },
+    "93415050": {
+        "cep": "93415-050",
+        "logradouro": "Rua Onofre Pires",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415051": {
+        "erro": true
+    },
+    "93415052": {
+        "erro": true
+    },
+    "93415053": {
+        "erro": true
+    },
+    "93415054": {
+        "erro": true
+    },
+    "93415055": {
+        "erro": true
+    },
+    "93415056": {
+        "erro": true
+    },
+    "93415057": {
+        "erro": true
+    },
+    "93415058": {
+        "erro": true
+    },
+    "93415059": {
+        "erro": true
+    },
+    "93415060": {
+        "cep": "93415-060",
+        "logradouro": "Rua Formosa",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415061": {
+        "erro": true
+    },
+    "93415062": {
+        "erro": true
+    },
+    "93415063": {
+        "erro": true
+    },
+    "93415064": {
+        "erro": true
+    },
+    "93415065": {
+        "cep": "93415-065",
+        "logradouro": "Avenida Pedro Adams Filho",
+        "complemento": "de 2641 a 3199 - lado ímpar",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415066": {
+        "erro": true
+    },
+    "93415067": {
+        "erro": true
+    },
+    "93415068": {
+        "erro": true
+    },
+    "93415069": {
+        "erro": true
+    },
+    "93415070": {
+        "cep": "93415-070",
+        "logradouro": "Rua Luiz de Brito",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415071": {
+        "erro": true
+    },
+    "93415072": {
+        "erro": true
+    },
+    "93415073": {
+        "erro": true
+    },
+    "93415074": {
+        "erro": true
+    },
+    "93415075": {
+        "erro": true
+    },
+    "93415076": {
+        "erro": true
+    },
+    "93415077": {
+        "erro": true
+    },
+    "93415078": {
+        "erro": true
+    },
+    "93415079": {
+        "erro": true
+    },
+    "93415080": {
+        "cep": "93415-080",
+        "logradouro": "Rua Canela",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415081": {
+        "erro": true
+    },
+    "93415082": {
+        "erro": true
+    },
+    "93415083": {
+        "erro": true
+    },
+    "93415084": {
+        "erro": true
+    },
+    "93415085": {
+        "erro": true
+    },
+    "93415086": {
+        "erro": true
+    },
+    "93415087": {
+        "erro": true
+    },
+    "93415088": {
+        "erro": true
+    },
+    "93415089": {
+        "erro": true
+    },
+    "93415090": {
+        "cep": "93415-090",
+        "logradouro": "Rua Lourenço da Veiga",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415091": {
+        "erro": true
+    },
+    "93415092": {
+        "erro": true
+    },
+    "93415093": {
+        "erro": true
+    },
+    "93415094": {
+        "erro": true
+    },
+    "93415095": {
+        "erro": true
+    },
+    "93415096": {
+        "erro": true
+    },
+    "93415097": {
+        "erro": true
+    },
+    "93415098": {
+        "erro": true
+    },
+    "93415099": {
+        "erro": true
+    },
+    "93415100": {
+        "cep": "93415-100",
+        "logradouro": "Rua Carumbé",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415101": {
+        "erro": true
+    },
+    "93415102": {
+        "erro": true
+    },
+    "93415103": {
+        "erro": true
+    },
+    "93415104": {
+        "erro": true
+    },
+    "93415105": {
+        "erro": true
+    },
+    "93415106": {
+        "erro": true
+    },
+    "93415107": {
+        "erro": true
+    },
+    "93415108": {
+        "erro": true
+    },
+    "93415109": {
+        "erro": true
+    },
+    "93415110": {
+        "cep": "93415-110",
+        "logradouro": "Rua Sargento Abreu",
+        "complemento": "",
+        "bairro": "Pátria Nova",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415111": {
+        "erro": true
+    },
+    "93415112": {
+        "erro": true
+    },
+    "93415113": {
+        "erro": true
+    },
+    "93415114": {
+        "erro": true
+    },
+    "93415115": {
+        "erro": true
+    },
+    "93415116": {
+        "erro": true
+    },
+    "93415117": {
+        "erro": true
+    },
+    "93415118": {
+        "erro": true
+    },
+    "93415119": {
+        "erro": true
+    },
+    "93415120": {
+        "cep": "93415-120",
+        "logradouro": "Rua Paquetá",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415121": {
+        "erro": true
+    },
+    "93415122": {
+        "erro": true
+    },
+    "93415123": {
+        "erro": true
+    },
+    "93415124": {
+        "erro": true
+    },
+    "93415125": {
+        "erro": true
+    },
+    "93415126": {
+        "erro": true
+    },
+    "93415127": {
+        "erro": true
+    },
+    "93415128": {
+        "erro": true
+    },
+    "93415129": {
+        "erro": true
+    },
+    "93415130": {
+        "cep": "93415-130",
+        "logradouro": "Rua Aurora",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415131": {
+        "erro": true
+    },
+    "93415132": {
+        "erro": true
+    },
+    "93415133": {
+        "erro": true
+    },
+    "93415134": {
+        "erro": true
+    },
+    "93415135": {
+        "erro": true
+    },
+    "93415136": {
+        "erro": true
+    },
+    "93415137": {
+        "erro": true
+    },
+    "93415138": {
+        "erro": true
+    },
+    "93415139": {
+        "erro": true
+    },
+    "93415140": {
+        "cep": "93415-140",
+        "logradouro": "Rua Adolfo Jaeger",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415141": {
+        "erro": true
+    },
+    "93415142": {
+        "erro": true
+    },
+    "93415143": {
+        "erro": true
+    },
+    "93415144": {
+        "cep": "93415-144",
+        "logradouro": "Rua Bento Gonçalves",
+        "complemento": "até 350 - lado par",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415145": {
+        "erro": true
+    },
+    "93415146": {
+        "erro": true
+    },
+    "93415147": {
+        "erro": true
+    },
+    "93415148": {
+        "erro": true
+    },
+    "93415149": {
+        "erro": true
+    },
+    "93415150": {
+        "cep": "93415-150",
+        "logradouro": "Rua Blumenau",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415151": {
+        "erro": true
+    },
+    "93415152": {
+        "erro": true
+    },
+    "93415153": {
+        "erro": true
+    },
+    "93415154": {
+        "erro": true
+    },
+    "93415155": {
+        "erro": true
+    },
+    "93415156": {
+        "erro": true
+    },
+    "93415157": {
+        "erro": true
+    },
+    "93415158": {
+        "erro": true
+    },
+    "93415159": {
+        "erro": true
+    },
+    "93415160": {
+        "erro": true
+    },
+    "93415161": {
+        "erro": true
+    },
+    "93415162": {
+        "erro": true
+    },
+    "93415163": {
+        "erro": true
+    },
+    "93415164": {
+        "erro": true
+    },
+    "93415165": {
+        "erro": true
+    },
+    "93415166": {
+        "erro": true
+    },
+    "93415167": {
+        "erro": true
+    },
+    "93415168": {
+        "erro": true
+    },
+    "93415169": {
+        "erro": true
+    },
+    "93415170": {
+        "cep": "93415-170",
+        "logradouro": "Rua Brusque",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415171": {
+        "erro": true
+    },
+    "93415172": {
+        "erro": true
+    },
+    "93415173": {
+        "erro": true
+    },
+    "93415174": {
+        "erro": true
+    },
+    "93415175": {
+        "erro": true
+    },
+    "93415176": {
+        "erro": true
+    },
+    "93415177": {
+        "erro": true
+    },
+    "93415178": {
+        "erro": true
+    },
+    "93415179": {
+        "erro": true
+    },
+    "93415180": {
+        "cep": "93415-180",
+        "logradouro": "Rua Joinvile",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415181": {
+        "erro": true
+    },
+    "93415182": {
+        "erro": true
+    },
+    "93415183": {
+        "erro": true
+    },
+    "93415184": {
+        "erro": true
+    },
+    "93415185": {
+        "erro": true
+    },
+    "93415186": {
+        "erro": true
+    },
+    "93415187": {
+        "erro": true
+    },
+    "93415188": {
+        "erro": true
+    },
+    "93415189": {
+        "erro": true
+    },
+    "93415190": {
+        "cep": "93415-190",
+        "logradouro": "Rua Rio de Janeiro",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415191": {
+        "erro": true
+    },
+    "93415192": {
+        "erro": true
+    },
+    "93415193": {
+        "cep": "93415-193",
+        "logradouro": "Rua Bento Gonçalves",
+        "complemento": "até 439 - lado ímpar",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415194": {
+        "erro": true
+    },
+    "93415195": {
+        "cep": "93415-195",
+        "logradouro": "Rua Saly Terezinha Ely",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415196": {
+        "erro": true
+    },
+    "93415197": {
+        "erro": true
+    },
+    "93415198": {
+        "erro": true
+    },
+    "93415199": {
+        "erro": true
+    },
+    "93415200": {
+        "cep": "93415-200",
+        "logradouro": "Rua Gramado",
+        "complemento": "",
+        "bairro": "Ouro Branco",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415201": {
+        "erro": true
+    },
+    "93415202": {
+        "erro": true
+    },
+    "93415203": {
+        "erro": true
+    },
+    "93415204": {
+        "erro": true
+    },
+    "93415205": {
+        "erro": true
+    },
+    "93415206": {
+        "erro": true
+    },
+    "93415207": {
+        "erro": true
+    },
+    "93415208": {
+        "erro": true
+    },
+    "93415209": {
+        "erro": true
+    },
+    "93415210": {
+        "cep": "93415-210",
+        "logradouro": "Rua São Bento",
+        "complemento": "",
+        "bairro": "Rondônia",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415211": {
+        "erro": true
+    },
+    "93415212": {
+        "erro": true
+    },
+    "93415213": {
+        "erro": true
+    },
+    "93415214": {
+        "erro": true
+    },
+    "93415215": {
+        "erro": true
+    },
+    "93415216": {
+        "erro": true
+    },
+    "93415217": {
+        "erro": true
+    },
+    "93415218": {
+        "erro": true
+    },
+    "93415219": {
+        "erro": true
+    },
+    "93415220": {
+        "cep": "93415-220",
+        "logradouro": "Rua Carlos Aloísio Hannecker",
+        "complemento": "",
+        "bairro": "Rondônia",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415221": {
+        "erro": true
+    },
+    "93415222": {
+        "erro": true
+    },
+    "93415223": {
+        "erro": true
+    },
+    "93415224": {
+        "erro": true
+    },
+    "93415225": {
+        "erro": true
+    },
+    "93415226": {
+        "erro": true
+    },
+    "93415227": {
+        "erro": true
+    },
+    "93415228": {
+        "erro": true
+    },
+    "93415229": {
+        "erro": true
+    },
+    "93415230": {
+        "cep": "93415-230",
+        "logradouro": "Rua Frei Henrique de Coimbra",
+        "complemento": "",
+        "bairro": "Rondônia",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415231": {
+        "erro": true
+    },
+    "93415232": {
+        "erro": true
+    },
+    "93415233": {
+        "erro": true
+    },
+    "93415234": {
+        "erro": true
+    },
+    "93415235": {
+        "erro": true
+    },
+    "93415236": {
+        "erro": true
+    },
+    "93415237": {
+        "erro": true
+    },
+    "93415238": {
+        "erro": true
+    },
+    "93415239": {
+        "erro": true
+    },
+    "93415240": {
+        "cep": "93415-240",
+        "logradouro": "Rua Doutor Karl Wilhelm Schinke",
+        "complemento": "",
+        "bairro": "Rondônia",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415241": {
+        "erro": true
+    },
+    "93415242": {
+        "erro": true
+    },
+    "93415243": {
+        "cep": "93415-243",
+        "logradouro": "Rua José Antônio Reichert",
+        "complemento": "",
+        "bairro": "Rondônia",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415244": [],
+    "93415245": [],
+    "93415246": [],
+    "93415247": [],
+    "93415248": [],
+    "93415249": [],
+    "93415250": [],
+    "93415251": [],
+    "93415252": [],
+    "93415253": [],
+    "93415254": [],
+    "93415255": [],
+    "93415256": [],
+    "93415257": [],
+    "93415258": [],
+    "93415259": [],
+    "93415260": [],
+    "93415261": [],
+    "93415262": [],
+    "93415263": [],
+    "93415264": [],
+    "93415265": [],
+    "93415266": [],
+    "93415267": [],
+    "93415268": [],
+    "93415269": [],
+    "93415270": [],
+    "93415271": [],
+    "93415272": [],
+    "93415273": [],
+    "93415274": [],
+    "93415275": [],
+    "93415276": [],
+    "93415277": [],
+    "93415278": [],
+    "93415279": [],
+    "93415280": [],
+    "93415281": [],
+    "93415282": [],
+    "93415283": [],
+    "93415284": [],
+    "93415285": [],
+    "93415286": [],
+    "93415287": [],
+    "93415288": [],
+    "93415289": [],
+    "93415290": [],
+    "93415291": [],
+    "93415292": [],
+    "93415293": [],
+    "93415294": [],
+    "93415295": [],
+    "93415296": [],
+    "93415297": [],
+    "93415298": [],
+    "93415299": [],
+    "93415300": [],
+    "93415301": [],
+    "93415302": [],
+    "93415303": [],
+    "93415304": [],
+    "93415305": [],
+    "93415306": [],
+    "93415307": [],
+    "93415308": [],
+    "93415309": [],
+    "93415310": [],
+    "93415311": [],
+    "93415312": [],
+    "93415313": [],
+    "93415314": [],
+    "93415315": [],
+    "93415316": [],
+    "93415317": [],
+    "93415318": [],
+    "93415319": [],
+    "93415320": [],
+    "93415321": [],
+    "93415322": [],
+    "93415323": [],
+    "93415324": [],
+    "93415325": [],
+    "93415326": [],
+    "93415327": [],
+    "93415328": [],
+    "93415329": [],
+    "93415330": [],
+    "93415331": [],
+    "93415332": [],
+    "93415333": [],
+    "93415334": [],
+    "93415335": [],
+    "93415336": [],
+    "93415337": [],
+    "93415338": [],
+    "93415339": [],
+    "93415340": [],
+    "93415341": [],
+    "93415342": [],
+    "93415343": [],
+    "93415344": [],
+    "93415345": [],
+    "93415346": [],
+    "93415347": [],
+    "93415348": [],
+    "93415349": [],
+    "93415350": [],
+    "93415351": [],
+    "93415352": [],
+    "93415353": [],
+    "93415354": [],
+    "93415355": [],
+    "93415356": [],
+    "93415357": [],
+    "93415358": [],
+    "93415359": [],
+    "93415360": [],
+    "93415361": [],
+    "93415362": [],
+    "93415363": [],
+    "93415364": [],
+    "93415365": [],
+    "93415366": [],
+    "93415367": [],
+    "93415368": [],
+    "93415369": [],
+    "93415370": [],
+    "93415371": [],
+    "93415372": [],
+    "93415373": [],
+    "93415374": [],
+    "93415375": [],
+    "93415376": [],
+    "93415377": [],
+    "93415378": [],
+    "93415379": [],
+    "93415380": [],
+    "93415381": [],
+    "93415382": [],
+    "93415383": [],
+    "93415384": [],
+    "93415385": [],
+    "93415386": [],
+    "93415387": [],
+    "93415388": [],
+    "93415389": [],
+    "93415390": [],
+    "93415391": [],
+    "93415392": [],
+    "93415393": [],
+    "93415394": [],
+    "93415395": [],
+    "93415396": [],
+    "93415397": [],
+    "93415398": [],
+    "93415399": [],
+    "93415400": [],
+    "93415401": [],
+    "93415402": [],
+    "93415403": [],
+    "93415404": [],
+    "93415405": [],
+    "93415406": [],
+    "93415407": [],
+    "93415408": [],
+    "93415409": [],
+    "93415410": [],
+    "93415411": [],
+    "93415412": [],
+    "93415413": [],
+    "93415414": [],
+    "93415415": [],
+    "93415416": [],
+    "93415417": [],
+    "93415418": [],
+    "93415419": [],
+    "93415420": [],
+    "93415421": [],
+    "93415422": [],
+    "93415423": [],
+    "93415424": [],
+    "93415425": [],
+    "93415426": [],
+    "93415427": [],
+    "93415428": [],
+    "93415429": [],
+    "93415430": [],
+    "93415431": [],
+    "93415432": [],
+    "93415433": [],
+    "93415434": [],
+    "93415435": [],
+    "93415436": [],
+    "93415437": [],
+    "93415438": [],
+    "93415439": [],
+    "93415440": [],
+    "93415441": [],
+    "93415442": [],
+    "93415443": [],
+    "93415444": [],
+    "93415445": [],
+    "93415446": [],
+    "93415447": [],
+    "93415448": [],
+    "93415449": [],
+    "93415450": [],
+    "93415451": [],
+    "93415452": [],
+    "93415453": [],
+    "93415454": [],
+    "93415455": [],
+    "93415456": [],
+    "93415457": [],
+    "93415458": [],
+    "93415459": [],
+    "93415460": [],
+    "93415461": [],
+    "93415462": [],
+    "93415463": [],
+    "93415464": [],
+    "93415465": [],
+    "93415466": [],
+    "93415467": [],
+    "93415468": [],
+    "93415469": [],
+    "93415470": [],
+    "93415471": [],
+    "93415472": [],
+    "93415473": [],
+    "93415474": [],
+    "93415475": [],
+    "93415476": [],
+    "93415477": [],
+    "93415478": [],
+    "93415479": [],
+    "93415480": [],
+    "93415481": [],
+    "93415482": [],
+    "93415483": [],
+    "93415484": [],
+    "93415485": [],
+    "93415486": [],
+    "93415487": [],
+    "93415488": [],
+    "93415489": [],
+    "93415490": [],
+    "93415491": [],
+    "93415492": [],
+    "93415493": [],
+    "93415494": [],
+    "93415495": [],
+    "93415496": [],
+    "93415497": [],
+    "93415498": [],
+    "93415499": [],
+    "93415500": [],
+    "93415501": [],
+    "93415502": [],
+    "93415503": [],
+    "93415504": [],
+    "93415505": [],
+    "93415506": [],
+    "93415507": [],
+    "93415508": [],
+    "93415509": [],
+    "93415510": [],
+    "93415511": [],
+    "93415512": [],
+    "93415513": [],
+    "93415514": [],
+    "93415515": [],
+    "93415516": [],
+    "93415517": [],
+    "93415518": [],
+    "93415519": [],
+    "93415520": [],
+    "93415521": [],
+    "93415522": [],
+    "93415523": [],
+    "93415524": [],
+    "93415525": [],
+    "93415526": [],
+    "93415527": [],
+    "93415528": [],
+    "93415529": [],
+    "93415530": [],
+    "93415531": [],
+    "93415532": [],
+    "93415533": [],
+    "93415534": [],
+    "93415535": [],
+    "93415536": [],
+    "93415537": [],
+    "93415538": [],
+    "93415539": [],
+    "93415540": [],
+    "93415541": [],
+    "93415542": [],
+    "93415543": [],
+    "93415544": [],
+    "93415545": [],
+    "93415546": [],
+    "93415547": [],
+    "93415548": [],
+    "93415549": [],
+    "93415550": [],
+    "93415551": [],
+    "93415552": [],
+    "93415553": [],
+    "93415554": [],
+    "93415555": [],
+    "93415556": [],
+    "93415557": [],
+    "93415558": [],
+    "93415559": [],
+    "93415560": [],
+    "93415561": [],
+    "93415562": [],
+    "93415563": [],
+    "93415564": [],
+    "93415565": [],
+    "93415566": [],
+    "93415567": [],
+    "93415568": [],
+    "93415569": [],
+    "93415570": [],
+    "93415571": [],
+    "93415572": [],
+    "93415573": [],
+    "93415574": [],
+    "93415575": [],
+    "93415576": [],
+    "93415577": [],
+    "93415578": [],
+    "93415579": [],
+    "93415580": [],
+    "93415581": [],
+    "93415582": [],
+    "93415583": [],
+    "93415584": [],
+    "93415585": [],
+    "93415586": [],
+    "93415587": [],
+    "93415588": [],
+    "93415589": [],
+    "93415590": [],
+    "93415591": [],
+    "93415592": [],
+    "93415593": [],
+    "93415594": [],
+    "93415595": [],
+    "93415596": [],
+    "93415597": [],
+    "93415598": [],
+    "93415599": [],
+    "93415600": {
+        "cep": "93415-600",
+        "logradouro": "Rua Barão de Itapevi",
+        "complemento": "",
+        "bairro": "Rondônia",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415601": {
+        "erro": true
+    },
+    "93415602": {
+        "erro": true
+    },
+    "93415603": {
+        "erro": true
+    },
+    "93415604": {
+        "erro": true
+    },
+    "93415605": {
+        "erro": true
+    },
+    "93415606": {
+        "erro": true
+    },
+    "93415607": {
+        "erro": true
+    },
+    "93415608": {
+        "erro": true
+    },
+    "93415609": {
+        "erro": true
+    },
+    "93415610": {
+        "cep": "93415-610",
+        "logradouro": "Rua Brigadeiro Eduardo Gomes",
+        "complemento": "",
+        "bairro": "Rondônia",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415611": {
+        "erro": true
+    },
+    "93415612": {
+        "erro": true
+    },
+    "93415613": {
+        "erro": true
+    },
+    "93415614": {
+        "erro": true
+    },
+    "93415615": {
+        "erro": true
+    },
+    "93415616": {
+        "erro": true
+    },
+    "93415617": {
+        "erro": true
+    },
+    "93415618": {
+        "erro": true
+    },
+    "93415619": {
+        "erro": true
+    },
+    "93415620": {
+        "cep": "93415-620",
+        "logradouro": "Rua Pedro Petry",
+        "complemento": "",
+        "bairro": "Rondônia",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415621": {
+        "erro": true
+    },
+    "93415622": {
+        "cep": "93415-622",
+        "logradouro": "Rua José Leopoldo Troes",
+        "complemento": "",
+        "bairro": "Rondônia",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415623": {
+        "erro": true
+    },
+    "93415624": {
+        "erro": true
+    },
+    "93415625": {
+        "cep": "93415-625",
+        "logradouro": "Beco Alfredo Kohlrausch",
+        "complemento": "",
+        "bairro": "Rondônia",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415626": {
+        "erro": true
+    },
+    "93415627": {
+        "erro": true
+    },
+    "93415628": {
+        "erro": true
+    },
+    "93415629": {
+        "erro": true
+    },
+    "93415630": {
+        "cep": "93415-630",
+        "logradouro": "Rua Carlos Lanzer",
+        "complemento": "",
+        "bairro": "Rondônia",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415631": {
+        "erro": true
+    },
+    "93415632": {
+        "erro": true
+    },
+    "93415633": {
+        "erro": true
+    },
+    "93415634": {
+        "erro": true
+    },
+    "93415635": {
+        "cep": "93415-635",
+        "logradouro": "Rua Francisco Bernardes",
+        "complemento": "(Lot Floresta Rondônia)",
+        "bairro": "Rondônia",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415636": {
+        "erro": true
+    },
+    "93415637": {
+        "erro": true
+    },
+    "93415638": {
+        "erro": true
+    },
+    "93415639": {
+        "erro": true
+    },
+    "93415640": {
+        "cep": "93415-640",
+        "logradouro": "Rua João Pedro Schimitt",
+        "complemento": "",
+        "bairro": "Rondônia",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    },
+    "93415641": {
+        "erro": true
+    },
+    "93415642": {
+        "erro": true
+    },
+    "93415643": {
+        "erro": true
+    },
+    "93415644": {
+        "erro": true
+    },
+    "93415645": {
+        "erro": true
+    },
+    "93415646": {
+        "erro": true
+    },
+    "93415647": {
+        "erro": true
+    },
+    "93415648": {
+        "erro": true
+    },
+    "93415649": {
+        "erro": true
+    },
+    "93415650": {
+        "cep": "93415-650",
+        "logradouro": "Praça Floresta Imperial",
+        "complemento": "",
+        "bairro": "Rondônia",
+        "localidade": "Novo Hamburgo",
+        "uf": "RS",
+        "unidade": "",
+        "ibge": "4313409",
+        "gia": ""
+    }
+}
