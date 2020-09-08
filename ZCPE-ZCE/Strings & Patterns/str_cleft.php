@@ -1,11 +1,9 @@
 <?php
 
-require_once "default.php";
-
 /**
  * Função responsável por quebrar uma string em tantas colunas quanto for informado por parâmetro e não quebrar as palavras ao meio.
  */
-function breakStrings(string $string, int $size = 32): array
+function str_cleft(string $string, int $size = 32): array
 {
     if ((bool) ((int) strlen($string) === 0) === true) {
         return [];
@@ -44,6 +42,6 @@ $string = "
         porris, paradis. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per.
           ";
 
-dd([$string]);
+var_dump([$string]);
 
-dd(breakStrings($string, 40));
+dd(str_cleft($string, 40));
