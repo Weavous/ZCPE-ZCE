@@ -62,3 +62,9 @@ Small study documentation of <a href="https://www.php.net">👉 PHP 👈</a> lan
 🏹 I/O
 
 🏹 Error Handling
+
+<h3 align="center">Books</h3>
+
+<p align="center">
+    <a href="#">Matheus Marabesi, Michael Douglas - Zend Certified Engineer:  Descomplicando a Certificacao PHP, Casa do Codigo</a>
+</p>
