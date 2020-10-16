@@ -23,11 +23,11 @@ Small study documentation of <a href="https://www.php.net">👉 PHP 👈</a> lan
     </a>
 </p>
 
-<h2 align="center">PHP</h2>
+<h3 align="center">PHP</h3>
 
 🗡 https://www.php.net
 
-## 💡 Reference
+<h3 align="center">💡 Reference</h3>
 
 🗡 http://www.zendexam.com
 
@@ -37,11 +37,9 @@ Small study documentation of <a href="https://www.php.net">👉 PHP 👈</a> lan
 
 🗡 https://home.pearsonvue.com/zend
 
-🗡 https://groups.google.com/g/rumo-a-certificacao-php?pli=1
-
 🗡 https://groups.google.com/g/rumo-a-certificacao-php
 
-## 💡 Topics
+<h3 align="center">💡 Topics</h3>
 
 🏹 PHP Basics
 
