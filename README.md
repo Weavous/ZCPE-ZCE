@@ -1,6 +1,6 @@
 <p align="center"><img src="php-28-226043.png" width="400"></p>
 
-Small study documentation of <a href="https://www.php.net">👉 PHP 👈</a> language, studying for <a href="https://www.zend.com/training/php-certification-exam">Zend Certification</a>.
+<p align="center">Small study documentation of <a href="https://www.php.net">👉 PHP 👈</a> language, studying for <a href="https://www.zend.com/training/php-certification-exam">Zend Certification</a>.</p>
 
 <h1 align="center">ZCPE-ZCE</h1>
 
