@@ -1,4 +1,4 @@
-<p align="center"><img src="php-28-226043.png" width="400"></p>
+<p align="center"><img src="php.svg" width=400></p>
 
 <p align="center">Small study documentation of <a href="https://www.php.net">👉 PHP 👈</a> language, studying for <a href="https://www.zend.com/training/php-certification-exam">Zend Certification</a>.</p>
 
@@ -25,46 +25,44 @@
 
 <h3 align="center">PHP</h3>
 
-🗡 https://www.php.net
+<span><img src="php-code.svg" width=25 height=25></span> https://www.php.net
 
 <h3 align="center">💡 Reference</h3>
 
-🗡 http://www.zendexam.com
+<span><img src="php-code.svg" width=25 height=25></span> http://www.zendexam.com
 
-🗡 https://leanpub.com/certificacaophp
+<span><img src="php-code.svg" width=25 height=25></span> https://leanpub.com/certificacaophp
 
-🗡 https://pt.slideshare.net/arijunior/rumo-certificao-php
+<span><img src="php-code.svg" width=25 height=25></span> https://pt.slideshare.net/arijunior/rumo-certificao-php
 
-🗡 https://home.pearsonvue.com/zend
+<span><img src="php-code.svg" width=25 height=25></span> https://home.pearsonvue.com/zend
 
-🗡 https://groups.google.com/g/rumo-a-certificacao-php
+<span><img src="php-code.svg" width=25 height=25></span> https://groups.google.com/g/rumo-a-certificacao-php
 
 <h3 align="center">💡 Topics</h3>
 
-🏹 PHP Basics
+<span><img src="php-code.svg" width=25 height=25></span> PHP Basics
 
-🏹 Functions
+<span><img src="php-code.svg" width=25 height=25></span> Functions
 
-🏹 Arrays
+<span><img src="php-code.svg" width=25 height=25></span> Arrays
 
-🏹 Object-oriented Programming
+<span><img src="php-code.svg" width=25 height=25></span> Object-oriented Programming
 
-🏹 Security
+<span><img src="php-code.svg" width=25 height=25></span> Security
 
-🏹 Databases
+<span><img src="php-code.svg" width=25 height=25></span> Databases
 
-🏹 Data Format & Types
+<span><img src="php-code.svg" width=25 height=25></span> Data Format & Types
 
-🏹 Strings & Patterns
+<span><img src="php-code.svg" width=25 height=25></span> Strings & Patterns
 
-🏹 Web Features
+<span><img src="php-code.svg" width=25 height=25></span> Web Features
 
-🏹 I/O
+<span><img src="php-code.svg" width=25 height=25></span> I/O
 
-🏹 Error Handling
+<span><img src="php-code.svg" width=25 height=25></span> Error Handling
 
 <h3 align="center">Books</h3>
 
-<p align="center">
-    <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/blob/master/Books/Matheus%20Marabesi%2C%20Michael%20Douglas%20-%20Zend%20Certified%20Engineer:%20%20Descomplicando%20a%20Certificacao%20PHP%2C%20Casa%20do%20Codigo.pdf">Matheus Marabesi, Michael Douglas - Zend Certified Engineer:  Descomplicando a Certificacao PHP, Casa do Codigo</a>
-</p>
+<p align="center"><a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/blob/master/Books/Matheus%20Marabesi%2C%20Michael%20Douglas%20-%20Zend%20Certified%20Engineer:%20%20Descomplicando%20a%20Certificacao%20PHP%2C%20Casa%20do%20Codigo.pdf">Matheus Marabesi, Michael Douglas - Zend Certified Engineer:  Descomplicando a Certificacao PHP, Casa do Codigo</a></p>
