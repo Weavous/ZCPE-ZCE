@@ -29,15 +29,17 @@
 
 <h3 align="center">💡 Reference</h3>
 
+<span><img src="php-code.svg" width=25 height=25></span> http://www.php-fig.org
+
 <span><img src="php-code.svg" width=25 height=25></span> http://www.zendexam.com
+
+<span><img src="php-code.svg" width=25 height=25></span> https://groups.google.com/g/rumo-a-certificacao-php
+
+<span><img src="php-code.svg" width=25 height=25></span> https://home.pearsonvue.com/zend
 
 <span><img src="php-code.svg" width=25 height=25></span> https://leanpub.com/certificacaophp
 
 <span><img src="php-code.svg" width=25 height=25></span> https://pt.slideshare.net/arijunior/rumo-certificao-php
-
-<span><img src="php-code.svg" width=25 height=25></span> https://home.pearsonvue.com/zend
-
-<span><img src="php-code.svg" width=25 height=25></span> https://groups.google.com/g/rumo-a-certificacao-php
 
 <h3 align="center">💡 Topics</h3>
 
