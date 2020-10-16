@@ -1,6 +1,6 @@
-<p align="center">
-    <img src="php-28-226043.png" alt="PHP">
-<p>
+<p align="center"><img src="php-28-226043.png" width="400"></p>
+
+Small study documentation of the  <a href="https://www.php.net">👉 PHP 👈</a> language, studying for <a href="https://www.zend.com/training/php-certification-exam">Zend Certification</a>.
 
 <h1 align="center">ZCPE-ZCE</h1>
 
@@ -8,7 +8,22 @@
     ZCPE/ZCE Survival Guide
 </h3>
 
-## PHP
+<p align="center">
+    <a href="https://opensource.org/licenses/MIT">
+        <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
+    </a>
+    <a href="#">
+        <img alt="License" src="https://img.shields.io/github/languages/count/MagicalStrangeQuark/ZCPE-ZCE">
+    </a>
+    <a href="#">
+        <img alt="License" src="https://img.shields.io/github/last-commit/MagicalStrangeQuark/ZCPE-ZCE">
+    </a>
+    <a href="#">
+        <img alt="License" src="https://img.shields.io/github/followers/MagicalStrangeQuark?style=social">
+    </a>
+</p>
+
+<h2 align="center">PHP</h2>
 
 🗡 https://www.php.net
 
