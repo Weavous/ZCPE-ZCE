@@ -65,4 +65,30 @@
 
 <h3 align="center">Books</h3>
 
-<p align="center"><a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/blob/master/Books/Matheus%20Marabesi%2C%20Michael%20Douglas%20-%20Zend%20Certified%20Engineer:%20%20Descomplicando%20a%20Certificacao%20PHP%2C%20Casa%20do%20Codigo.pdf">Matheus Marabesi, Michael Douglas - Zend Certified Engineer:  Descomplicando a Certificacao PHP, Casa do Codigo</a></p>
+<a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/blob/master/Books/Matheus%20Marabesi%2C%20Michael%20Douglas%20-%20Zend%20Certified%20Engineer:%20%20Descomplicando%20a%20Certificacao%20PHP%2C%20Casa%20do%20Codigo.pdf">Matheus Marabesi, Michael Douglas - Zend Certified Engineer:  Descomplicando a Certificacao PHP, Casa do Codigo</a>
+
+- [x] `1 Introdução`
+
+- [ ] `2 Entendendo o básico do PHP`
+
+- [ ] `3 Strings e padrões`
+
+- [ ] `4 XML, JSON e utilização de datas`
+
+- [ ] `5 Arrays`
+
+- [ ] `6 Arquivos, streams e entrada/saída`
+
+- [ ] `7 Funções`
+
+- [ ] `8 Programação orientada a objetos`
+
+- [ ] `9 PHP e banco de dados com PDO`
+
+- [ ] `10 Características Web`
+
+- [ ] `11 Segurança`
+
+- [ ] `12 Conclusão`
+
+- [ ] `13 Referências de livros/conteúdos utilizados nesse livro`
