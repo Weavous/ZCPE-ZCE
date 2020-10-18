@@ -43,27 +43,60 @@
 
 <h3 align="center">💡 Topics</h3>
 
-<span><img src="php-code.svg" width=25 height=25></span> <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/PHP%20Basics">PHP Basics</a>
+<p>
+    <span><img src="php-code.svg" width=25 height=25></span>
+    <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/PHP%20Basics">PHP Basics</a>
+</p>
 
-<span><img src="php-code.svg" width=25 height=25></span> <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Functions">Functions</a>
+<p>
+    <span><img src="php-code.svg" width=25 height=25></span>
+    <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Functions">Functions</a>
+</p>
 
-<span><img src="php-code.svg" width=25 height=25></span> <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Arrays">Arrays</a>
+<p>
+    <span><img src="php-code.svg" width=25 height=25></span>
+    <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Arrays">Arrays</a>
+</p>
 
-<span><img src="php-code.svg" width=25 height=25></span> <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Object-oriented%20Programming">Object-oriented Programming</a>
+<p>
+    <span><img src="php-code.svg" width=25 height=25></span>
+    <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Object-oriented%20Programming">Object-oriented Programming</a>
+</p>
 
-<span><img src="php-code.svg" width=25 height=25></span> <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Security">Security</a>
+<p>
+    <span><img src="php-code.svg" width=25 height=25></span>
+    <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Security">Security</a>
+</p>
 
-<span><img src="php-code.svg" width=25 height=25></span> <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Databases">Databases</a>
+<p>
+    <span><img src="php-code.svg" width=25 height=25></span>
+    <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Databases">Databases</a>
+</p>
 
-<span><img src="php-code.svg" width=25 height=25></span> <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Data%20Format%20%26%20Types">Data Format & Types</a>
+<p>
+    <span><img src="php-code.svg" width=25 height=25></span>
+    <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Data%20Format%20%26%20Types">Data Format & Types</a>
+</p>
 
-<span><img src="php-code.svg" width=25 height=25></span> <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Strings%20%26%20Patterns">Strings & Patterns</a>
+<p>
+    <span><img src="php-code.svg" width=25 height=25></span>
+    <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Strings%20%26%20Patterns">Strings & Patterns</a>
+</p>
 
-<span><img src="php-code.svg" width=25 height=25></span> <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Web%20Features">Web Features</a>
+<p>
+    <span><img src="php-code.svg" width=25 height=25></span>
+    <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Web%20Features">Web Features</a>
+</p>
 
-<span><img src="php-code.svg" width=25 height=25></span> <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/IO">I/O</a>
+<p>
+    <span><img src="php-code.svg" width=25 height=25></span>
+    <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/IO">I/O</a>
+</p>
 
-<span><img src="php-code.svg" width=25 height=25></span> <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Error%20Handling">Error Handling</a>
+<p>
+    <span><img src="php-code.svg" width=25 height=25></span>
+    <a href="https://github.com/MagicalStrangeQuark/ZCPE-ZCE/tree/master/ZCPE-ZCE/Error%20Handling">Error Handling</a>
+</p>
 
 <h3 align="center">Books</h3>
 
