@@ -104,7 +104,7 @@
 
 - [x] `1 Introdução`
 
-- [ ] `2 Entendendo o básico do PHP`
+- [x] `2 Entendendo o básico do PHP`
 
 - [ ] `3 Strings e padrões`
 
