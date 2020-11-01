@@ -127,3 +127,35 @@
 - [ ] `12 Conclusão`
 
 - [ ] `13 Referências de livros/conteúdos utilizados nesse livro`
+
+<a href="https://github.com/Weavous/ZCPE-ZCE/blob/master/Books/Pablo%20Dall'Oglio%20-%20PHP%20-%20Programando%20com%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20-%202%C2%B0%20Edi%C3%A7%C3%A3o.pdf">Pablo Dall'Oglio - PHP - Programando com Orientação a Objetos - 2° Edição</a>
+
+- [x] `Sobre o autor`
+
+- [x] `Agradecimentos`
+
+- [x] `Nota do autor`
+
+- [x] `Organização do livro`
+
+- [x] `Capítulo 1 - Introdução ao PHP`
+
+- [x] `Capítulo 2 - Orientação a objetos`
+
+- [ ] `Capítulo 3 - Manipulação de dados`
+
+    - [x] `Capítulo 3.1 - Acesso nativo`
+
+    - [x] `Capítulo 3.2 - PDO::PHP Data Objects`
+
+    - [ ] `Capítulo 3.3 - Uma API orientada a objetos`
+
+- [ ] `Capítulo 4 - Mapeamento Objeto-Relacional`
+
+- [ ] `Capítulo 5 - Apresentação e controle`
+
+- [ ] `Capítulo 6 - Formulários e listagens`
+
+- [ ] `Capítulo 7 - Criando uma aplicação`
+
+- [ ] `Índice remissivo`
